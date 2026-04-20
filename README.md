@@ -4,7 +4,7 @@ Pipeline completo de dados utilizando um dataset público de filmes do IMDb. O f
 
 ## Dataset
 
-Movies Dataset — disponível no Kaggle:
+Movies Dataset, disponível no Kaggle:
 https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 Contém informações de mais de 7.000 filmes: título, ano, gênero, diretor, bilheteria, nota e número de votos.
